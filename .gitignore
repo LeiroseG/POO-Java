@@ -1,0 +1,13 @@
+# Arquivos compilados do Java
+*.class
+bin/
+
+# Configurações do Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Arquivos do sistema operacional
+Thumbs.db
+.DS_Store
