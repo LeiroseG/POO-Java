@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Date_time {
+module Map {
 }

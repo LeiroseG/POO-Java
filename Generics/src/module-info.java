@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Abstrato {
+module Generics {
 }

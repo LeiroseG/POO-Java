@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Composição {
+module Stream {
 }
